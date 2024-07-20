@@ -1,4 +1,4 @@
 <div align="center">
 
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Steve-Yuu&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Steve-Yuu=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
