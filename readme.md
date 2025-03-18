@@ -3,8 +3,3 @@
 ## 你好
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steve-Yuu)](https://github.com/anuraghazra/github-readme-stats)
 
-![賀年圖2025](https://github.com/Steve-Yuu/Steve-Yuu/blob/main/%E8%B4%BA%E5%B9%B4%E5%9B%BE2025.png)
-
-## 後續計劃及暫停維護通知
-![注意和后续计划1](https://github.com/Steve-Yuu/Steve-Yuu/blob/main/%E6%B3%A8%E6%84%8F%E5%92%8C%E5%90%8E%E7%BB%AD%E8%AE%A1%E5%88%921.png)
-![注意和后续计划2](https://github.com/Steve-Yuu/Steve-Yuu/blob/main/%E6%B3%A8%E6%84%8F%E5%8F%8A%E5%90%8E%E7%BB%AD%E8%AE%A1%E5%88%922.png)
